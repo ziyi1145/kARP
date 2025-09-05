@@ -1,5 +1,6 @@
 # kARP
 An ARP-internet spoofing software for MacOS designed for easy use
+## Tip: the .py file is now called karp.py, in the readme below this document is referred to as "arp_attack.py". Please note this change
 # Karp-Arp Spoofing tool
 
 A Python script for performing ARP cache poisoning attacks for educational and authorized testing purposes.
